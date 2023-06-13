@@ -35,3 +35,7 @@ INSERT INTO my_table (id, name, age) VALUES (uuid(), 'Jane', 30);
 SELECT * FROM my_table;
 ```
 
+# access via client
+```
+python3 client.py
+```
