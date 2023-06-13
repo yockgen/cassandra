@@ -1,6 +1,12 @@
 # cassandra
-Cassandra Installation on K8s:
+Cassandra Installation on K8s:    
 https://kubernetes.io/docs/tutorials/stateful-application/cassandra/
+```
+kubectl apply -f persistent.yaml
+kubectl apply -f deployment.yaml
+kubectl apply -f svc.yaml
+
+```
 
 # access via cqlsh via service port
 
