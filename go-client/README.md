@@ -7,7 +7,7 @@ cassandra:
   host: 10.49.76.106
   port: 30200
   username: admin
-  password: intel@2023
+  password: xxxxx
 ```
 
 
