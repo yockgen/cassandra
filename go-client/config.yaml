@@ -2,4 +2,4 @@ cassandra:
   host: 10.49.76.106
   port: 30200
   username: admin
-  password: xxxxx
+  password: intel@2023
